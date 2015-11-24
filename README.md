@@ -1,4 +1,4 @@
-[![David](https://raw.github.com/rnbwd/david-www/master/david.png)](https://david-dm.org/)
+[![David](https://raw.github.com/alanshaw/david-www/master/david.png)](https://david-dm.org/)
 
 [![Build Status](https://img.shields.io/travis/rnbwd/david/master.svg?style=flat)](https://travis-ci.org/rnbwd/david)
 [![Coverage Status](https://coveralls.io/repos/RnbWd/david/badge.svg?branch=rnbwd&service=github)](https://coveralls.io/github/RnbWd/david?branch=rnbwd)
