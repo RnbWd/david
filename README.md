@@ -1,6 +1,6 @@
 [![David](https://raw.github.com/alanshaw/david-www/master/david.png)](https://david-dm.org/)
 
-[![Build Status](https://img.shields.io/travis/rnbwd/david/master.svg?style=flat)](https://travis-ci.org/rnbwd/david)
+[![Build Status](https://travis-ci.org/RnbWd/david.svg?branch=rnbwd)](https://travis-ci.org/RnbWd/david)
 [![Coverage Status](https://coveralls.io/repos/RnbWd/david/badge.svg?branch=rnbwd&service=github)](https://coveralls.io/github/RnbWd/david?branch=rnbwd)
 [![Dependency Status](https://david-dm.org/rnbwd/david.svg?style=flat)](https://david-dm.org/rnbwd/david)
 [![devDependency Status](https://david-dm.org/rnbwd/david/dev-status.svg?style=flat)](https://david-dm.org/rnbwd/david#info=devDependencies)
