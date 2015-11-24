@@ -1,9 +1,9 @@
-[![David](https://raw.github.com/alanshaw/david-www/master/david.png)](https://david-dm.org/)
+[![David](https://raw.github.com/rnbwd/david-www/master/david.png)](https://david-dm.org/)
 
-[![Build Status](https://img.shields.io/travis/alanshaw/david/master.svg?style=flat)](https://travis-ci.org/rnbwd/david)
-[![Coverage Status](http://img.shields.io/coveralls/alanshaw/david.svg?style=flat)](https://coveralls.io/r/rnbwd/david?branch=rnbw)
-[![Dependency Status](https://david-dm.org/alanshaw/david.svg?style=flat)](https://david-dm.org/rnbwd/david)
-[![devDependency Status](https://david-dm.org/alanshaw/david/dev-status.svg?style=flat)](https://david-dm.org/rnbwd/david#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/rnbwd/david/master.svg?style=flat)](https://travis-ci.org/rnbwd/david)
+[![Coverage Status](http://img.shields.io/coveralls/rnbwd/david.svg?style=flat)](https://coveralls.io/r/rnbwd/david?branch=rnbw)
+[![Dependency Status](https://david-dm.org/rnbwd/david.svg?style=flat)](https://david-dm.org/rnbwd/david)
+[![devDependency Status](https://david-dm.org/rnbwd/david/dev-status.svg?style=flat)](https://david-dm.org/rnbwd/david#info=devDependencies)
 
 ___
 

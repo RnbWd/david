@@ -5,10 +5,10 @@
   "main": "lib/david.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alanshaw/david.git"
+    "url": "git://github.com/rnbwd/david.git"
   },
   "bugs": {
-    "url": "https://github.com/alanshaw/david/issues"
+    "url": "https://github.com/rnbwd/david/issues"
   },
   "author": "Alan Shaw",
   "bin": {
