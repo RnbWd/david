@@ -1,11 +1,10 @@
 [![David](https://raw.github.com/alanshaw/david-www/master/david.png)](https://david-dm.org/)
 
-[![Build Status](https://img.shields.io/travis/alanshaw/david/master.svg?style=flat)](https://travis-ci.org/alanshaw/david)
-[![Coverage Status](http://img.shields.io/coveralls/alanshaw/david.svg?style=flat)](https://coveralls.io/r/alanshaw/david?branch=master)
-[![Dependency Status](https://david-dm.org/alanshaw/david.svg?style=flat)](https://david-dm.org/alanshaw/david)
-[![devDependency Status](https://david-dm.org/alanshaw/david/dev-status.svg?style=flat)](https://david-dm.org/alanshaw/david#info=devDependencies)
-[![Inline docs](http://inch-ci.org/github/alanshaw/david.svg?branch=master)](http://inch-ci.org/github/alanshaw/david)
-[![Donate to help support David development](http://img.shields.io/gratipay/_alanshaw.svg?style=flat)](https://www.gittip.com/_alanshaw/)
+[![Build Status](https://img.shields.io/travis/alanshaw/david/master.svg?style=flat)](https://travis-ci.org/rnbwd/david)
+[![Coverage Status](http://img.shields.io/coveralls/alanshaw/david.svg?style=flat)](https://coveralls.io/r/rnbwd/david?branch=rnbw)
+[![Dependency Status](https://david-dm.org/alanshaw/david.svg?style=flat)](https://david-dm.org/rnbwd/david)
+[![devDependency Status](https://david-dm.org/alanshaw/david/dev-status.svg?style=flat)](https://david-dm.org/rnbwd/david#info=devDependencies)
+
 ___
 
 Node.js module that tells you when your package npm dependencies are out of date.
@@ -19,13 +18,13 @@ Install david:
 
 ```sh
 cd /your/project/directory
-npm install david
+npm install @rnbwd/david
 ```
 
 Use:
 
 ```javascript
-var david = require('david');
+var david = require('@rnbwd/david');
 
 // Your package.json
 var manifest = {
@@ -168,7 +167,7 @@ To tell david to ignore dependencies, add a `david.ignore` property to your `pac
 
 Release History
 ---------------
-
+* 2015-11-23   v7.1.0   Update to npm@4
 * 2015-11-09   v7.0.0   Update to npm@3
 * 2015-10-19   v6.4.0   CLI Add `-i, --ignore` option to ignore dependencies
 * 2015-10-19   v6.3.0   Ignore dependencies from `package.json` config
